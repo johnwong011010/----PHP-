@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string-array name="people_number">
+        <item>一人</item>
+        <item>二人</item>
+        <item>三人</item>
+        <item>四人</item>
+        <item>五人</item>
+        <item>六人</item>
+        <item>七人</item>
+        <item>八人</item>
+        <item>九人</item>
+        <item>十人</item>
+    </string-array>
+</resources>

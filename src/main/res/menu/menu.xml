@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id = "@+id/News"
+        android:title="最新消息"
+        app:showAsAction="always"
+        />
+    <item
+        android:id = "@+id/online_reserve"
+        android:title="線上訂位"
+        app:showAsAction="always"
+        />
+    <item
+        android:id = "@+id/online_food_menu"
+        android:title="線上餐牌"
+        app:showAsAction="always"
+        />
+    <item
+        android:id = "@+id/member_login"
+        android:title="會員登入"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/about_us"
+        android:title="關於我們"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/member_logout"
+        android:title="登出"
+        app:showAsAction="ifRoom"
+        />
+</menu>
